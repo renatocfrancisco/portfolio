@@ -1,0 +1,27 @@
+.col{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.col:hover{
+    border: rgb(0, 0, 0) solid 1px;
+}
+
+.row{
+    align-self: center;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    width: 100vw;
+    height: 100vh;
+}
+
+img{
+    height: 150px;
+}

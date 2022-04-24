@@ -1,0 +1,26 @@
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid rgb(0, 0, 0);
+}
+
+div.gallery.row{
+    margin: auto;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
