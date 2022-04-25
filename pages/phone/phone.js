@@ -2,11 +2,11 @@
 var ringback = new Audio(
   "assets\\COMTelph_Tone ringback tone 1 (ID 1614)_BSB.wav"
 );
-ringback.volume = 0.25
+ringback.volume = 0.7
 
 var ring = new Audio("assets\\COMTelph_Phone ring 5 (ID 0375)_BSB.wav");
 var answering_tone = new Audio(
-  "pages\\phone\\assets\\COMTelph_Answering machine beep (ID 1616)_BSB.wav"
+  "assets\\COMTelph_Answering machine beep (ID 1616)_BSB.wav"
 );
 
 // Dial
@@ -21,11 +21,19 @@ var keyHandler = function (event) {
   current++;
 
   if (pattern.length === current) {
-    current = 0;
-    //window.alert("Dialing 911...");
     ringback.play();
+    console.log("Playing Audio, i think...")
+    setTimeout(pause_audio(), 5000);
   }
 };
+
+function pause_audio(){
+  pause()
+}
+
+function pause(){
+  ringback.pause();
+}
 
 var pattern = ["9", "1", "1"];
 var current = 0;
