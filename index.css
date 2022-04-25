@@ -3,8 +3,8 @@
     margin-right: 10px;
 }
 
-.col:hover{
-    border: rgb(0, 0, 0) solid 1px;
+.col:hover img{
+    border: rgb(0, 0, 0) solid 1px;    
 }
 
 .row{
@@ -23,5 +23,5 @@
 }
 
 img{
-    height: 150px;
+    height: 200px;
 }

@@ -1,10 +1,16 @@
-var audio1 = new Audio(
+// AUDIOS
+var ringback = new Audio(
   "assets\\COMTelph_Tone ringback tone 1 (ID 1614)_BSB.wav"
 );
+ringback.volume = 0.25
 
-var audio2 = new Audio("assets\\COMTelph_Phone ring 5 (ID 0375)_BSB.wav");
+var ring = new Audio("assets\\COMTelph_Phone ring 5 (ID 0375)_BSB.wav");
+var answering_tone = new Audio(
+  "pages\\phone\\assets\\COMTelph_Answering machine beep (ID 1616)_BSB.wav"
+);
 
-var keyHandler = function (event, audio1) {
+// Dial
+var keyHandler = function (event) {
   // console.log(event.key);
 
   if (pattern.indexOf(event.key) < 0 || event.key !== pattern[current]) {
@@ -16,18 +22,13 @@ var keyHandler = function (event, audio1) {
 
   if (pattern.length === current) {
     current = 0;
-    window.alert("Dialing 911...");
-    audio1.play();
+    //window.alert("Dialing 911...");
+    ringback.play();
   }
 };
 
 var pattern = ["9", "1", "1"];
 var current = 0;
 
-document.addEventListener("keydown", keyHandler, false);
 
-setInterval(answer, 3000); // Set to 3 seconds
-function answer(audio2) {
-  alert("I am an alert message appear in every 3 seconds");
-  audio2.play();
-}
+document.addEventListener("keydown", keyHandler, false);
