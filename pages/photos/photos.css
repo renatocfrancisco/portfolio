@@ -1,37 +1,26 @@
-div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
+body, html {
+  margin: 20px;
+}
+
+.col {
   float: left;
-  width: 180px;
+  margin: 7px;
 }
 
-div.gallery:hover {
-  border: 1px solid rgb(0, 0, 0);
+img:hover {
+  border: 1px solid rgb(0, 235, 0);
 }
 
-div.gallery.row {
-  margin: auto;
-}
-
-div.gallery img {
+img {
+  display: block;
   width: 100%;
   height: auto;
 }
 
-.container {
+header {
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
-}
-
-.header h2{
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-}
-
-body{
-  margin: 40px;
+  padding-bottom: 20px;
 }
