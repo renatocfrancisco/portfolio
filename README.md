@@ -16,6 +16,7 @@ Users Files Icon by [OHMYicons](https://ohmyicons.com/en/) from [Icon Archive](h
 Music Icon by [WallpaperFX](https://wallpaperfx.com/) from [Icon Archive](https://iconarchive.com/show/3d-bluefx-desktop-icons-by-wallpaperfx/Music-icon.html)<br>
 Spotify and Youtube Music Icons from [Simple Icons](https://simpleicons.org/)<br>
 Back icon created by Chanut from [Flaticon](https://www.flaticon.com/free-icons/back)<br>
+Very Basic Menu Icon by [Icons8](https://icons8.com/) from [Icon Archive](https://iconarchive.com/show/windows-8-icons-by-icons8/Very-Basic-Menu-icon.html) <br>
 
 ### Thanks
 to [**Pedro Lima**](https://github.com/pedrobits), **Gustavo H. Silva** and **Gustavo Baggio**.

@@ -8,13 +8,17 @@ body {
   );
 }
 
+body::-webkit-scrollbar {
+  display: none;
+}
+
 img {
   width: 34px;
   padding-right: 10px;
   padding-bottom: 4px;
 }
 
-header {
+header{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -22,16 +26,17 @@ header {
   padding-top: 38px;
 }
 
-p {
-  margin-top: 10px;
-  text-align: center;
-  visibility: hidden;
-}
-
 header button {
   margin-right: 10px;
 }
 
+p {
+  text-align: center;
+  color: white;
+}
+
 .playlist{
     border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
