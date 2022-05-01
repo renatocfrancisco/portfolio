@@ -1,15 +1,21 @@
+body {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    90deg,
+    rgb(255, 255, 255) 0%,
+    rgb(224, 224, 224) 50%,
+    white 100%
+  );
+}
+
 .col{
     margin-left: 10px;
     margin-right: 10px;
+    font-family: 'Roboto Mono', monospace;
 }
 
 .col:hover img{
     border: rgb(0, 0, 0) solid 1px;    
-}
-
-.row{
-    align-self: center;
-    text-align: center;
 }
 
 .container{
@@ -20,6 +26,11 @@
 
     width: 100vw;
     height: 100vh;
+}
+
+.row{
+    align-self: center;
+    text-align: center;
 }
 
 img{
