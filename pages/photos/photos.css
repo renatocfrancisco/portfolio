@@ -16,30 +16,37 @@ body::-webkit-scrollbar {
   display: none;
 }
 
-html{
+html {
   padding-left: 15px;
 }
 
-header button img {
+.icone {
   width: 34px;
   padding-right: 10px;
   padding-bottom: 4px;
 
-  filter :invert(1)
+  filter: invert(1);
 }
 
-
-.col {
-  float: left;
-  margin: 7px;
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
-.col img:hover {
+.photo {
+  padding: 7px;
+  flex-basis: 33.333333%;
+  align-self: center;
+}
+
+.photo img:hover {
   border: 1px solid rgb(0, 235, 0);
 }
 
-.col img {
-  display: block;
+.photo img {
   width: 100%;
   height: auto;
 }
@@ -49,23 +56,25 @@ header {
   justify-content: space-between;
   align-items: center;
   padding-bottom: 20px;
-  text-align: center;
 }
 
-.btn-secondary, .btn-secondary:hover, .btn-secondary:active, .btn-secondary:visited {
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:active,
+.btn-secondary:visited {
   background-color: #555555 !important;
 }
 
 header button {
   margin-right: 10px;
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Roboto Mono", monospace;
 }
 
-footer{
+footer {
+  margin-top: 10px;
   display: flex;
-  align-items: center;
   justify-content: center;
 
   font-weight: bold;
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Roboto Mono", monospace;
 }
