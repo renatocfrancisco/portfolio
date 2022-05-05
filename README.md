@@ -3,8 +3,7 @@
 ## Credits
 
 All of the photos taken by me, Renato C. Francisco.<br>
-Feel free to use, share and adapt with [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)<br>
-[Download here](https://github.com/renatocfrancisco/portfolio/raw/master/pages/photos/assets/renatocfrancisco_photos.zip) in .zip format.<br>
+Feel free to use, share and adapt them.
 
 **Sounds**<br>
 [Phone ring 5](https://bigsoundbank.com/detail-0375-phone-ring-5.html) / [Answering machine beep](https://bigsoundbank.com/detail-1616-answering-machine-beep.html) / [Tone, ringback tone 1](https://bigsoundbank.com/detail-1614-tone-ringback-tone-1.html) / [Night after rain](https://bigsoundbank.com/detail-0621-Night-after-rain.html) by Joseph SARDIN from **BigSoundBank**
@@ -17,6 +16,7 @@ Music Icon by [WallpaperFX](https://wallpaperfx.com/) from [Icon Archive](https:
 Spotify and Youtube Music Icons from [Simple Icons](https://simpleicons.org/)<br>
 Back icon created by Chanut from [Flaticon](https://www.flaticon.com/free-icons/back)<br>
 Very Basic Menu Icon by [Icons8](https://icons8.com/) from [Icon Archive](https://iconarchive.com/show/windows-8-icons-by-icons8/Very-Basic-Menu-icon.html) <br>
+Download Icon by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from [Flaticon](https://www.flaticon.com/free-icon/download_724933?term=download&page=1&position=1&page=1&position=1&related_id=724933&origin=search)<br>
 
 ### Thanks
-to [**Pedro Lima**](https://github.com/pedrobits), **Gustavo H. Silva** and **Gustavo Baggio**.
+to [**Pedro Lima**](https://github.com/pedrobits), **Gustavo H. Silva** and **Gustavo José Baggio**.
