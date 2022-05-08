@@ -1,5 +1,10 @@
 # Portfolio
 
+- [ ] Portolio
+- [ ] Photos
+- [ ] Phone
+- [X] Music
+
 ## Credits
 
 All of the photos taken by me, Renato C. Francisco.<br>
@@ -26,5 +31,5 @@ Spotify and Youtube Music Icons from [**Simple Icons**](https://simpleicons.org/
 Back icon by [Freepik](https://www.freepik.com/) from [**Flaticon**](https://www.flaticon.com/free-icon/back_130882?term=back&page=1&position=1&page=1&position=1&related_id=130882&origin=tag)<br>
 Download Icon by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from [**Flaticon**](https://www.flaticon.com/free-icon/download_724933?term=download&page=1&position=1&page=1&position=1&related_id=724933&origin=search)<br>
 
-### Thanks
+## Thanks
 to [**Pedro Lima**](https://github.com/pedrobits), **Gustavo H. Silva** and **Gustavo José Baggio**.
