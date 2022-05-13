@@ -11,7 +11,7 @@ body {
 .col{
     margin-left: 10px;
     margin-right: 10px;
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Work Sans', sans-serif;
 }
 
 .col:hover img{

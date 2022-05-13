@@ -69,14 +69,5 @@ header {
 
 header button {
   margin-right: 10px;
-  font-family: "Roboto Mono", monospace;
+  font-family: 'Work Sans', sans-serif;
 }
-
-/* footer {
-  margin-top: 10px;
-  display: flex;
-  justify-content: center;
-
-  font-weight: bold;
-  font-family: "Roboto Mono", monospace;
-} */
