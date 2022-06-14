@@ -18,6 +18,20 @@ body {
     border: rgb(0, 0, 0) solid 1px;    
 }
 
+#social{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    height: 20vh;
+    width: 70vw
+}
+
+#social img{
+    height: 50px;
+}
+
 .container{
     display: flex;
     flex-direction: row;
@@ -25,7 +39,7 @@ body {
     align-items: center;
 
     width: 100vw;
-    height: 100vh;
+    height: 70vh;
 }
 
 .row{
