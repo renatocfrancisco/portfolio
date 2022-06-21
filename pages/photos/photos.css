@@ -20,9 +20,6 @@
 
 body {
   margin: 10px;
-}
-
-body {
   background: linear-gradient(
     90deg,
     rgba(255, 255, 255, 1) 0%,
@@ -35,10 +32,6 @@ body {
 
 body::-webkit-scrollbar {
   display: none;
-}
-
-html {
-  padding-left: 15px;
 }
 
 .icone {
@@ -74,7 +67,7 @@ html {
 
 header {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   padding-bottom: 10px;
 }
