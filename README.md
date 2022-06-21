@@ -1,5 +1,7 @@
 # Personal Site
 
+[![GitHub license](https://img.shields.io/github/license/renatocfrancisco/renatocfrancisco.github.io)](https://github.com/renatocfrancisco/renatocfrancisco.github.io/blob/master/LICENSE) <a href="https://renatocfrancisco.github.io/"> <img alt="Personal Site" src="https://img.shields.io/badge/Github.io-renatocfrancisco-lightgrey"/> </a>
+
 ## Credits
 
 All of the [photos](https://renatocfrancisco.github.io/portfolio/pages/photos/photos.html) taken by me, Renato C. Francisco.<br>
