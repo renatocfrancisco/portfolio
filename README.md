@@ -4,7 +4,7 @@
 
 ## Credits
 
-All of the [photos](https://renatocfrancisco.github.io/portfolio/pages/photos/photos.html) taken by me, Renato C. Francisco.<br>
+All of the [photos](https://renatocfrancisco.github.io/pages/photos/photos.html) taken by me, Renato C. Francisco.<br>
 Feel free to use, share and adapt them. [Download here](https://github.com/renatocfrancisco/portfolio/raw/master/pages/photos/assets/renatocfrancisco_photos.zip) in .zip format.<br>
 
 <details>
