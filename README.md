@@ -1,6 +1,6 @@
 # Personal Site
 
-[![GitHub license](https://img.shields.io/github/license/renatocfrancisco/renatocfrancisco.github.io)](https://github.com/renatocfrancisco/renatocfrancisco.github.io/blob/master/LICENSE) <a href="https://renatocfrancisco.github.io/"> <img alt="Personal Site" src="https://img.shields.io/badge/Github.io-renatocfrancisco-lightgrey"/> </a>
+[![GitHub license](https://img.shields.io/github/license/renatocfrancisco/renatocfrancisco.github.io)](https://github.com/renatocfrancisco/renatocfrancisco.github.io/blob/master/LICENSE) <a href="https://renatocfrancisco.github.io/"> <img alt="Personal Site" src="https://img.shields.io/badge/Github.io-renatocfrancisco-lightgrey"/> </a> ![GitHub repo size](https://img.shields.io/github/repo-size/renatocfrancisco/renatocfrancisco.github.io)
 
 ## Credits
 
