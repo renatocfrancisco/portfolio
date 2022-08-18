@@ -4,8 +4,8 @@
 
 ## Credits
 
-All of the [photos](https://renatocfrancisco.github.io/pages/photos/photos.html) taken by me, Renato C. Francisco.<br>
-Feel free to use, share and adapt them. [Download here](https://github.com/renatocfrancisco/portfolio/raw/master/pages/photos/assets/renatocfrancisco_photos.zip) in .zip format.<br>
+All of the [photos](https://renatocfrancisco.github.io/photos/photos.html) taken by me, Renato C. Francisco.<br>
+Feel free to use, share and adapt them. [Download here](https://github.com/renatocfrancisco/renatocfrancisco.github.io/raw/master/photos/assets/renatocfrancisco_photos.zip) in .zip format.<br>
 
 <details>
 <summary markdown="span">Icons</summary>
