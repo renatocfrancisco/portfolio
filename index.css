@@ -26,13 +26,7 @@
 }
 
 body {
-  background: rgb(255, 255, 255);
-  background: linear-gradient(
-    90deg,
-    rgb(255, 255, 255) 0%,
-    rgb(224, 224, 224) 50%,
-    white 100%
-  );
+  background: rgb(0, 0, 0);
 }
 
 .col {
@@ -42,7 +36,7 @@ body {
 }
 
 .col:hover img {
-  border: rgb(0, 0, 0) solid 1px;
+  border: rgb(0, 201, 43) solid 1px;
 }
 
 #social {
@@ -76,9 +70,14 @@ body {
 }
 
 img {
-  height: 180px;
+  height: 200px;
+}
+
+#social img{
+  filter: invert();
 }
 
 .titulo {
   font-size: 25px;
+  color: white;
 }
