@@ -4,6 +4,7 @@
     height: 50px;
   }
 }
+
 body {
   background: linear-gradient(
     90deg,
@@ -38,7 +39,7 @@ header button {
   margin-right: 10px;
 }
 
-h1 {
+h1,h2 {
   color: white;
   font-family: 'Work Sans', sans-serif;
 }
@@ -65,4 +66,33 @@ h1 {
 .playlist img{
   width: 400px;
   height: 400px;
+}
+
+img[data-color="#12beaf"]:hover {
+  border: 5px solid;
+  border-color: #12beaf;
+}
+img[data-color="#778686"]:hover {
+  border: 5px solid;
+  border-color: #778686;
+}
+img[data-color="#f2036f"]:hover {
+  border: 5px solid;
+  border-color: #f2036f;
+}
+img[data-color="#d9a4ba"]:hover {
+  border: 5px solid;
+  border-color: #d9a4ba;
+}
+img[data-color="#d35978"]:hover {
+  border: 5px solid;
+  border-color: #d35978;
+}
+img[data-color="#f09522"]:hover {
+  border: 5px solid;
+  border-color: #f09522;
+}
+img[data-color="#bc2b23"]:hover {
+  border: 5px solid;
+  border-color: #bc2b23;
 }
