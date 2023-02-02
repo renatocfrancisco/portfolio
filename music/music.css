@@ -1,12 +1,10 @@
 @media only screen and (max-device-width: 500px){
-  .playlist{
-    align-self: center;
-  }
-
-  .playlist iframe{
-    height: 100px;
+  .playlist img{
+    width: 50px;
+    height: 50px;
   }
 }
+
 body {
   background: linear-gradient(
     90deg,
@@ -20,7 +18,7 @@ body::-webkit-scrollbar {
   display: none;
 }
 
-img {
+#botoes img {
   width: 34px;
   padding-right: 10px;
   padding-bottom: 4px;
@@ -41,15 +39,60 @@ header button {
   margin-right: 10px;
 }
 
-p {
-  text-align: center;
+h1,h2 {
   color: white;
-
   font-family: 'Work Sans', sans-serif;
 }
 
+.playlists{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  row-gap: 60px;
+}
+
 .playlist{
-    border-radius: 10px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+  align-self: center;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: auto;
+  order: 4;
+  margin-left: 80px;
+  margin-bottom: 20px;
+}
+
+.playlist img{
+  width: 400px;
+  height: 400px;
+}
+
+img[data-color="#12beaf"]:hover {
+  border: 5px solid;
+  border-color: #12beaf;
+}
+img[data-color="#778686"]:hover {
+  border: 5px solid;
+  border-color: #778686;
+}
+img[data-color="#f2036f"]:hover {
+  border: 5px solid;
+  border-color: #f2036f;
+}
+img[data-color="#d9a4ba"]:hover {
+  border: 5px solid;
+  border-color: #d9a4ba;
+}
+img[data-color="#d35978"]:hover {
+  border: 5px solid;
+  border-color: #d35978;
+}
+img[data-color="#f09522"]:hover {
+  border: 5px solid;
+  border-color: #f09522;
+}
+img[data-color="#bc2b23"]:hover {
+  border: 5px solid;
+  border-color: #bc2b23;
 }
