@@ -98,6 +98,7 @@ img {
   border: none;
   border-radius: 0.25rem;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  margin-top: 3rem;
 }
 
 /* Modal header */
@@ -117,7 +118,7 @@ img {
   color: #555;
 }
 
-.modal-body img {
+.modal-content .modal-body img {
   border: none;
 }
 
