@@ -39,3 +39,12 @@ document.addEventListener("keydown", function (event) {
         codePosition = 0;
     }
 });
+
+const queryString = window.location.search;
+const params = new URLSearchParams(queryString);
+if (params.has('nobuttons')) {
+    const headerToRemove = document.getElementById('buttons');
+    if (headerToRemove) {
+        headerToRemove.remove();
+    }
+}
