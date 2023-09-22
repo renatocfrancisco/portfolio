@@ -125,4 +125,10 @@ img {
 #modal-icon{
   width: 10%;
   height: 10%;
+  filter:grayscale(1)
+}
+
+#modal-icon:hover{
+  filter:grayscale(0);
+  border: 0.5px solid black;
 }
