@@ -31,10 +31,6 @@ body {
   background: black;
 }
 
-body::-webkit-scrollbar {
-  display: none;
-}
-
 .icone {
   width: 34px;
   padding-right: 10px;
@@ -75,4 +71,15 @@ header {
 header button {
   margin-right: 10px;
   font-family: 'Work Sans', sans-serif;
+}
+
+body::-webkit-scrollbar {
+  width: 3px;
+}
+body::-webkit-scrollbar-track {
+  background: linear-gradient(#383838, #7d7d7d);
+}
+body::-webkit-scrollbar-thumb {
+  background: #ffffff;
+  border-radius: 20px;
 }
