@@ -22,5 +22,6 @@ Download Icon by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect)
 
 </details>
 
-### Thanks to...
+### Thanks
+
 [**João Amadio**](https://github.com/VitinhoAmadio), [**Adriel Clementino**](https://github.com/AdrielClementino), [**Gustavo H. Silva**](https://www.linkedin.com/in/gustavo-silva-4265361aa/) and [**Gustavo José Baggio**](https://www.linkedin.com/in/gustavobragio/).

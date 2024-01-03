@@ -31,7 +31,7 @@ document.addEventListener("keydown", function (event) {
         codePosition++;
         if (codePosition === code1.length || codePosition === code2.length) {
             var dataSpan = document.getElementById("hm")
-            dataSpan.textContent = 'XD';
+            dataSpan.textContent = '“Speak up, speak out, get in the way,” Lewis urged the crowd from that notorious bridge, a few months before his death. “Get in good trouble, necessary trouble”.'
             dataSpan.style.display = "";
             codePosition = 0;
         }
