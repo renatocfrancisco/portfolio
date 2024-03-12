@@ -1,6 +1,8 @@
 # Personal Site
 
-[![GitHub license](https://img.shields.io/github/license/renatocfrancisco/renatocfrancisco.github.io)](https://github.com/renatocfrancisco/renatocfrancisco.github.io/blob/master/LICENSE) <a href="https://renatocfrancisco.github.io/"> <img alt="Personal Site" src="https://img.shields.io/badge/Github.io-renatocfrancisco-lightgrey"/> </a> ![GitHub repo size](https://img.shields.io/github/repo-size/renatocfrancisco/renatocfrancisco.github.io)
+[![GitHub license](https://img.shields.io/github/license/renatocfrancisco/renatocfrancisco.github.io)](https://github.com/renatocfrancisco/renatocfrancisco.github.io/blob/master/LICENSE)
+[![Personal Website](https://img.shields.io/badge/Github.io-renatocfrancisco-lightgrey)](https://renatocfrancisco.github.io/)
+![GitHub repo size](https://img.shields.io/github/repo-size/renatocfrancisco/renatocfrancisco.github.io)
 
 ## Credits
 
@@ -21,7 +23,3 @@ Back icon by [Freepik](https://www.freepik.com/) from [**Flaticon**](https://www
 Download Icon by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from [**Flaticon**](https://www.flaticon.com/free-icon/download_724933?term=download&page=1&position=1&page=1&position=1&related_id=724933&origin=search)<br>
 
 </details>
-
-### Thanks
-
-[**João Amadio**](https://github.com/VitinhoAmadio), [**Adriel Clementino**](https://github.com/AdrielClementino), [**Gustavo H. Silva**](https://www.linkedin.com/in/gustavo-silva-4265361aa/) and [**Gustavo José Baggio**](https://www.linkedin.com/in/gustavobragio/).
