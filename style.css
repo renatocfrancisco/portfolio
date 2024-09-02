@@ -73,7 +73,7 @@ img {
   height: 200px;
 }
 
-#social img{
+.invertImg{
   filter: invert();
 }
 
@@ -131,4 +131,12 @@ img {
 #modal-icon:hover{
   filter:grayscale(0);
   border: 0.5px solid black;
+}
+
+#bsky:hover {
+  filter: invert(1);
+  filter: grayscale(0.5);
+  border: 0.5px solid black;
+  transition: 0.5s;
+  /* transform: scale(1.1); */
 }
