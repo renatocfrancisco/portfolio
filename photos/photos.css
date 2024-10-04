@@ -83,3 +83,7 @@ body::-webkit-scrollbar-thumb {
   background: #ffffff;
   border-radius: 20px;
 }
+
+#hm {
+  font-size: x-small;
+}
