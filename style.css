@@ -83,7 +83,8 @@ img {
 }
 
 #hm{
-  padding: 70px;
+  font-size: x-small;
+    padding-left: 6rem;
 }
 
 /* Modal backdrop */
